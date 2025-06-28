@@ -2,7 +2,7 @@ fresbuild:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related Prod APIs Refresh"
+  message: "Hey, welcome to EazyBank loans related Prod APIs Refresh 1"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
